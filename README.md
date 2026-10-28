@@ -5,4 +5,5 @@ Student Information
 Name : Aishwarya;
 USN : 2KD25CS006
 Branch : Computer Science
-Semestar : 3rd Semestar
+Semester : 3rd Semester
+
